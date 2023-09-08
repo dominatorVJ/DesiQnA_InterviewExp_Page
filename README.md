@@ -8,12 +8,14 @@
   
   `- Its purpose is to make user experience better and have all the Interview Experiences of different companies in a proper manner.`
 
-Tech Stack:
+`Tech Stack: HTML, CSS, BOOTSTRAP, JAVASCRIPT`
 
-HTML
+`Take a look` :
 
-CSS
+[![Screenshot-1.jpg](https://i.postimg.cc/hv0ZnGkc/Screenshot-1.jpg)](https://postimg.cc/fSJfjMWr)
 
-BOOTSTRAP
+[![Screenshot-2.jpg](https://i.postimg.cc/fL1Sbjhv/Screenshot-2.jpg)](https://postimg.cc/mzNgX9kc)
 
-JAVASCRIPT`
+[![Screenshot-3.jpg](https://i.postimg.cc/q75zmXgd/Screenshot-3.jpg)](https://postimg.cc/R3wShtcP)
+
+[![Screenshot-4.jpg](https://i.postimg.cc/66Ry0ZXD/Screenshot-4.jpg)](https://postimg.cc/rzVVyKzJ)
